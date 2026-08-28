@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \documentclass[12pt,a4paper]{article}
 \usepackage[spanish,es-tabla]{babel}
 \decimalpoint
@@ -233,4 +234,241 @@ $https://zapatopi.net/kelvin/papers/on\_the\_age\_of\_the\_suns\_heat.html$
 
 
 
+=======
+\documentclass[12pt,a4paper]{article}
+\usepackage[spanish,es-tabla]{babel}
+\decimalpoint
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
+\usepackage{bbm}
+\usepackage{tikz}
+\usetikzlibrary{fit,positioning}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{cancel}
+\usepackage{multicol}
+\usepackage{wrapfig}
+\usepackage[T1]{fontenc}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{gensymb}
+\usepackage{booktabs}
+\usepackage{amssymb, amsmath}
+\usepackage{wrapfig}
+\parskip=1 mm
+\oddsidemargin -1.5 cm
+\headsep -2 cm
+\textwidth=17.8cm
+\textheight=25.5cm
+\begin{document}
+\begin{center}
+    {\LARGE \textbf{Introducción a la Mecánica Cuántica}} \\[0.4cm]
+
+    {\large Facultad de Ciencias, UNAM} \\[0.6cm]
+
+    \large \textbf{Tarea 1} \\[0.2cm]
+
+    \begin{tabular}{l}
+        \small Autor: Fernando Naed Ortega Montero\\
+        \small Fecha: \today
+    \end{tabular}
+\end{center}
+
+
+
+\section*{Preguntas Conceptuales.}
+
+\begin{enumerate}
+
+\item Mencione tres observaciones por las cuales las mecánica clásica no puede ser una descripción completa de la naturaleza.
+Explique brevemente por qué cada una de estas observaciones entra en conflicto con la descripción clásica.
+
+
+La edad del sol no fue determinada de manera congruente con las teorías clásicas, Lord Kelvin utilizó la teoria de la Termodinámica para determinar que la edad del sol, su estimación considerando el mejor combustible posible fue de 20 millones de años, en contrapocición de las estimaciones geologicas que ponen la edad de la tierra en 100 millones de años. \\
+La descripción actual considera la fusión nuclear como la fuente de energía que a mantenido al sol brillando durante tanto tiempo.\\
+
+La catastrofe ultravioleta planteaba un modelo del cuerpo negro que solo coincidía con las observaciones para niveles bajos de energía. Esto por asumir que la energía es un continuo, tras el nacimiento de la mecanica cuantica se logro ajustar la teoria con los valores experimentales considerando a la energía como discreta.\\
+
+El efecto Hertz hoy conocido como efecto fotoeléctrico, producto de su experimento para demostrar la no existencia de las ondas electromagnéticas Hertz descubre el efecto fotoeléctrico, Philipp Lenard en 1902 da una descripción del fenomeno usando la mecánica clásica, consideraba que la energía de la luz no se transformaba en energía cinetica para el electrón, lo que posteriormente fue modelado y demostrado de manera experimental.\\
+
+\item Marx Planck introdujo el concepto de cuanto de energía, postulando que el intercambio de energía entre la radiación y su medio se hace de forma discreta o cuantizada. Aplicando este postulado a la energía potencial de un elevador, describa físicamente que es lo que sucedería ¿Esto el lo que se observa del movimiento de un elevador, a que se debe que estos efectos cuánticos sean o no observados?\\
+
+Supongamos un elevador de masa m = cte. tal que la energía total del sistema es multiplo de un cuanto de energía ($E_0$). Ahora consideremos tambien a la energía total como la suma de las energias cinética y potencial del elevador.\\
+
+$$n E_0 = E_t = \frac12 m v^2 + mgh $$
+
+
+Como la velocidad y la altura son variables, podemos concluir que solo los pares de velocidad y atlura que al operar sean multiplos del cuanto de energía son validos, por lo que las variables de altura y de velocidad tambien son discretas.\\
+
+Estos efectos no son observados a nivel macroscopico ya que el cuanto de energía es muy pequeño, la diferencia entre un estado de energía y otro es minuscula, por lo que a nivel macroscopico funge como un diferencial, y podemos tomarla como continua. \\
+
+\item Compare la predición clásica del espectro de radiación del cuerpo negro con el espectro observado experimentalmente para a) frecuencias bajas y para b) frecuencias altas. Explique por qué la predicción clásica funciona en uno de estos límites, pero falla en el otro.\\
+
+Si se compara la distribución de la densidad volumetrica de energía, experimental y teorica (dada por la ecuacion de Rayleigh - Jeans, se puede notar como para frecuencias bajas, el modelo teórico se ajusta correctamente a la distribución, ya que ambas distribuciones crecen con el cuadrado de la frecuencia $\nu^2$.
+
+Por el contrario al tomar frecuencias altas la distribución de Rayleigh - Jeans aumenta con el cuadrado de la frecuencia $\nu^2$ en contraposición de las mediadas experimentales, en la cual al incrementar la frecuencia la densidad de energía disminuye, y en el infinito la densidad de energía se vuelve 0.
+
+
+\begin{center}
+\begin{tikzpicture}
+\begin{axis}[axis lines = middle,
+xlabel = {$\nu$},
+ylabel = {$u(x)$},
+xmin = -0.2, xmax = 6,
+ymin = -0.2, ymax = 5,
+samples = 100,
+domain = 0:10]
+
+\addplot[thick] {3.2*exp(-(x-2.1)^2)};
+\addplot[thick] {x^2};
+
+\end{axis}
+\end{tikzpicture}
+\end{center}
+
+\item En un experimento fotoeléctrico, se determina el potencial de frenado para una luz incidente de color azul. Si se duplica la intensidad de esa misma luz azul, ¿cambiará el valor del potencial de frenado necesario para detener a los electrones? ¿Qué es exactamente lo que cambia al aumentar la intensidad?
+
+Considerando la ecuación fotoeléctrica de Einstein, 
+
+$$
+K_{\mathrm{max}} = h\nu - \phi
+$$
+
+Donde, $K_{\mathrm{max}}$ es la energía cinética máxima del electron, $h\nu$ la energía de la luz incidente, y $\phi$ la energía minima para sacar al electrón del material, esto es una relación lineal, por lo que al duplicar la frecuencia del fotón incidente se duplica tambien la energía cinética maxima, y por consecuencia tendra que cambiar el valor del potencial de frenado necesario para detener a los electrones.
+
+\item Un fotón de energía $E_\gamma$ incide sobre un electrón libre inicialmente en reposo. ¿Puede el fotón ser completamente absorbido por el electrón?
+
+
+Considérese que el electrón está en reposo, si asumimos que el el fotón queda completamente absorbido por el electron en una colisión, a la hora de igualar los momentos inicial y final para ambas las componentes vertical y horizontal, nos daría,
+
+$$
+\frac{h \nu}{c} = p\cos(\theta) = \frac{1}{2} m_e v^2 \cos(\theta)
+$$
+$$
+0 = - p\sin(\theta) = - \frac{1}{2} m_e v^2 \sin(\theta)
+$$
+
+En este caso la energía del fotón después de la colisión es 0, ya que es aborbida por el electrón, en este caso tendriamos que considerar que el electrón es despedido en la misma dirección de la colisión, por lo que $\theta = 0$,  así la segunda ecuación se cumple. Y terminaríamos con la siguiente expresión.
+
+$$
+\frac{h \nu}{c} = \frac{1}{2} m_e v^2
+$$
+
+
+
+\end{enumerate}
+
+\section*{Problemas}
+
+\begin{enumerate}
+
+\item Sol negro, A partir de la fórmula de radiación de Planck para la densidad de energia se obtiene que la densidad de energía radiada por un cuerpo negro en todas las frecuencias del espectro electromagnético es,
+ 
+$$
+U := \int_{0}^{\infty} u(\nu) \, d\nu= aT^{4}, \hspace{1cm} a := \frac{8\pi^{5}k_{B}^{4}}{15c^{3}h^{3}}.
+$$
+
+En términos de U, la energía radiada por segundo por unidad de área de la superficie del cuerpo negro que radia está dada por la ley de Stefan-Boltzmann, 
+
+$$
+R := \frac{c}{4}U = \frac{ac}{4}T^{4}.
+$$
+
+\begin{enumerate}
+
+\item Suponga que el sol se comporta como un cuerpo negro ideal y que radia uniformemente en todas las direcciones, con simetría esférica. Determine la potencia radiada por el Sol si la intensidad I de radiación a la distancia de la Tierra (aprox. $1.5 \times 10^{11}$ m) es de 1,370 W/$\mathrm{m}^2$
+
+Como la radiación es uniforme y viene de un objeto esférico, podemos considerar que radía en todas direcciones con la misma intensidad, en este caso la intensidad de radiación esta atrabezando un área esferica de radio $ r = 1.5 \times 10^{11}$ m, y considerando la siguiente ecuación, 
+
+$$
+I = P / A, \hspace{1cm} P = I \cdot A\\
+$$
+
+
+donde, $P$ es la potencia, medida en [W], y A es el área, mediada en [$m^2$], se obtiene que la potencia de radiación es, 
+
+$$
+P = 4 \pi (1.5 \times 10^{11} \, \mathrm{m})^2 \left( 1370 \, \mathrm{W}/\mathrm{m}^2 \right) = 3.87 \times 10^{26} \, \mathrm{W}
+$$
+
+\item Suponiendo que el Sol es una esfera de radio $7 \times 10^8$ m, determine la temperatura del Sol.
+
+Usando la ley de Stefan-Boltzmann, 
+
+$$
+R = \frac{ac}{4}T^{4}, \hspace{1cm} T = \left(\frac{4R}{ac} \right)^\frac{1}{4}
+$$
+
+Ahora nótese que $R$, la energía radiada por unidad de segundo por unidad de área es, 
+
+$$
+R = P / A 
+$$
+
+donde ahora $A$ es el área de la superficie del Sol, por lo que, 
+
+$$
+T = \left(\frac{4P}{Aac} \right)^\frac{1}{4}
+$$
+
+Ahora haciendo el calculo de $a$, se obtiene, 
+
+$$
+a = \frac{8\pi^5\left(1.38 \times 10^{-23} \, \frac{\mathrm{J}}{\mathrm{K}}\right)^4}{15\left(299792.45 \frac{\mathrm{m}}{\mathrm{s}}\right)^3(6.62 \times 10^{-34} \, \mathrm{J}\, \mathrm{s})^3} = 7.56 \times 10^{-16} \frac{\mathrm{J}}{\mathrm{K}^4 \mathrm{m}^3}
+$$
+
+Finalmente la temperatura del Sol es, 
+
+
+$$
+T = \left(\frac{4(3082.5 \times 10^{11} \, \mathrm{W})}{4\pi(7 \times 10^8 \, \mathrm{m})^2 (9.022 \times 10^{-7} \frac{\mathrm{J}}{\mathrm{K}^4 \mathrm{m}^3}) \left(299792.45 \frac{\mathrm{m}}{\mathrm{s}}\right) } \right)^\frac{1}{4} = 5770 K
+$$
+
+
+\item Usando la ley del desplazamiento de Wien calcule la frecuencia $\nu_{\mathrm{max}}$ y la longitud de onda $\lambda_{\mathrm{max}}$ asociado a los valores en los que se emite mayor cantidad de enrgía.
+
+La ley de desplazamiento de Wien es, 
+
+$$
+\lambda_{\mathrm{max}} = \frac b T, \hspace{1cm} \mathrm{donde} \hspace{0.5cm} b = 2.898 \times 10^{-3}
+$$
+
+Por lo que la longitud de onda maxima,  $\lambda_{\mathrm{max}}$ es, 
+
+$$
+\lambda_{\mathrm{max}}  = \frac{2.898 \times 10^{-3}}{ 5770 } = 5.02  \times 10^{-7} m
+$$
+
+A su vez, la frecuencia maxima, $\nu_{\mathrm{max}}$ es, 
+
+$$
+\nu_{\mathrm{max}} = \frac{v}{\lambda_{\mathrm{max}}} = \frac{299792.45 \frac{\mathrm{m}}{\mathrm{s}}}{  5.02  \times 10^{-7} } = 5.97 \times 10^{14} Hz
+$$
+
+
+\end{enumerate}
+
+
+\end{enumerate}
+
+
+\section*{Referencias}
+
+Niaz, M., Klassen, S., McMillan, B., \& Metz, D. (2010). Reconstruction of the history of the photoelectric effect and its implications for general physics textbooks. Science Education.\\
+$https://onlinelibrary.wiley.com/doi/epdf/10.1002/sce.20389$
+\\
+
+Revista Macmillan's , vol. 5 (5 de marzo de 1862), págs. 388-393.\\
+$https://zapatopi.net/kelvin/papers/on\_the\_age\_of\_the\_suns\_heat.html$
+
+
+
+
+
+
+>>>>>>> 5ee2501de6b4b8a02df00e3d589cf65e1bd911f2
 \end{document}
