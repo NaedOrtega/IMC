@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  29 AUG 2026 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  29 AUG 2026 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -799,7 +799,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 tex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count347
-) (Tarea 1.aux)
+) (Tarea 1.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 8.
+)
 \openout1 = `"Tarea 1.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -818,8 +823,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 30.
 
 (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -933,7 +936,7 @@ L3 programming layer <2026-07-20>
 Here is how much of TeX's memory you used:
  27479 strings out of 467501
  692550 string characters out of 5408550
- 1206297 words of memory out of 5000000
+ 1206288 words of memory out of 5000000
  56301 multiletter control sequences out of 15000+600000
  643350 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
