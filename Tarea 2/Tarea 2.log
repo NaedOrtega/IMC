@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  3 SEP 2026 23:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  4 SEP 2026 00:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -878,29 +878,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
 (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-
-LaTeX Warning: Command \guillemotleft invalid in math mode on input line 59.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
@@ -915,15 +892,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-[1
 
-{C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+LaTeX Warning: Command \guillemotleft invalid in math mode on input line 67.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+[1
+
+{C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
@@ -937,34 +937,33 @@ L3 programming layer <2026-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26992 strings out of 467501
- 678693 string characters out of 5408550
- 1178930 words of memory out of 5000000
- 55816 multiletter control sequences out of 15000+600000
- 641473 words of font info for 78 fonts, out of 8000000 for 9000
+ 26989 strings out of 467501
+ 678654 string characters out of 5408550
+ 1179928 words of memory out of 5000000
+ 55814 multiletter control sequences out of 15000+600000
+ 641136 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,12n,107p,732b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+ <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
 1200.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm1200.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecbx1728.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1095.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/nafer/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/nafer/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nafer/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users
-/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-12.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmsy8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/latxfont/line10.pfb>
-Output written on "Tarea 2.pdf" (3 pages, 146098 bytes).
+0\ecbx1728.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecrm1095.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1440.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/nafer/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/nafer/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nafer/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/nafer
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Use
+rs/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/latxfont/line10.pfb>
+Output written on "Tarea 2.pdf" (3 pages, 147939 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
+ 229 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
