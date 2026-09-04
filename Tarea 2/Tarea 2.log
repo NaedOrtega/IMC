@@ -913,21 +913,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-
- []
-
-[3] [4] (Tarea 2.aux
+[2] [3] (Tarea 2.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -939,7 +934,7 @@ L3 programming layer <2026-07-20>
 Here is how much of TeX's memory you used:
  26989 strings out of 467501
  678654 string characters out of 5408550
- 1180929 words of memory out of 5000000
+ 1178929 words of memory out of 5000000
  55814 multiletter control sequences out of 15000+600000
  641136 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -961,9 +956,9 @@ mr8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmsy8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/latxfont/line10.pfb>
-Output written on "Tarea 2.pdf" (4 pages, 149374 bytes).
+Output written on "Tarea 2.pdf" (3 pages, 147256 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
+ 228 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
