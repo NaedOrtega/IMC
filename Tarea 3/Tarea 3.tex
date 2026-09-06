@@ -1,0 +1,111 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[spanish,es-tabla]{babel}
+\decimalpoint
+\usepackage{array}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
+\usepackage{bbm}
+\usepackage{tikz}
+\usetikzlibrary{fit,positioning}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{cancel}
+\usepackage{multicol}
+\usepackage{wrapfig}
+\usepackage[T1]{fontenc}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{gensymb}
+\usepackage{booktabs}
+\usepackage{amssymb, amsmath}
+\usepackage{wrapfig}
+\parskip=1 mm
+\oddsidemargin -1.5 cm
+\headsep -2 cm
+\textwidth=17.8cm
+\textheight=25.5cm
+\begin{document}
+\begin{center}
+    {\LARGE \textbf{Introducción a la Mecánica Cuántica}} \\[0.4cm]
+
+    {\large Facultad de Ciencias, UNAM} \\[0.6cm]
+
+    \large \textbf{Tarea 3} \\[0.2cm]
+
+    \begin{tabular}{l}
+        \small Autor: Fernando Naed Ortega Montero\\
+        \small Fecha: \today
+    \end{tabular}
+\end{center}
+
+
+
+\section*{Preguntas Conceptuales.}
+
+\begin{itemize}
+
+\item ¿Esperaría que el modelo clásico de Rutherford perdijera un espectro de emisión continuo o un espectro formado por líneas discretas?
+
+\item Bhor impuso que el momento angular del electron dabía estar cuantizado. Físicamente, ¿qué significa que una propuedad como el momento angular sólo pueda tomar ciertos valores discretos y no cualquier valor intermedio?
+
+\item Un átomo puede absorber un fotón y pasar de un estado de menor energía a uno de mayor energía. ¿Puede un átomo absorber un fotón de cualquier energía? En particular, ¿qué esperaría que ocurriera si la energía del fotón fuera ligeramente mayor que la diferecncia de enrgúa entre dos niveles permitidos? 
+
+\item El modelo atómico de Rutherford presenta dificultades cuando se analiza desde la perspectiva de la física clásica. Explique cuál es uno de los principales problemas que surgen al considerar el movimiento de los electrones alrededor del núcleo. ¿Cómo aborda el modelo de Bhor este problema? 
+
+\item Realice un dibujo esquemático y explique brevemente qué ocurre cuando un electrón colisióna con un átomo en el experimento de Franck-Hertz. Represente el estado del electrón y del átomo antes ydespués de la colisión, e indique qué sucede con la energía del sistema.
+
+\end{itemize}
+
+\section{Problemas}
+
+\begin{enumerate}
+
+\item Formando hidrógeno, Un electrón en reposo se libera desde una distancia muy lejana de un protón, hacia el cual se mueve.
+
+\begin{enumerate}
+
+\item Demuestr que la longitud de onda de de Broglie del electrón es proprocional a $\sqrt r$, donde r es la distancia del electrón al protón.
+
+\item Encuentre la longitud de onda del electrón cuando está a una distancia $a_0$ del protón. ¿Cómo se compara esto con la longitud de onda de un electrón en una órbita de Bohr en estado base?
+
+\item Para que el electrón sea capturado por el protón para fomar un átomo de hidrógeno en estado base, el sistema debe perder energía. ¿Cuánta energía?
+
+\end{enumerate}
+
+\item Retroceso de átomos, Un átomo de hidrógeno, inicialemte en reposo en el laboratorio, emite radiación Lyman-$\alpha$ al realizar una transición del estado $n =2$ al estado base $n = 1$.
+
+\begin{enumerate}
+
+\item Calcule la energía cinética del retroceso del átomo.
+
+\item ¿Qué fracción de la energía de excitación del estado $n = 2$ es transportada por el átomo debido a su retroceso?
+
+\end{enumerate}
+
+\item Modelo de Bohr sin cuantización del momento angular
+
+En este problema debe obtener los resultados de Bohr para los niveles de energía de el hidrógeno sin utilizar la condición de cuantización dke momento angular. Para relacionar la energía total del electrón con la fórmula de Rydberg, suponga que los radios de las órbitas permitidas están dados por $r_n = n^2 r_0$, donde $n$ es un número entero y $r_0$ es una constante por determinar.
+
+\begin{enumerate}
+
+\item Demuestre que la frecuencia de radiación para una transición a $n_f = n - 1$ está dada por
+
+$$ v \approx \frac{e^2}{4\pi\varepsilon_0 h r_0 n^3}$$
+
+para n grande.
+
+\item Demuestre que la frecuencia de revolución está deda por
+
+$$ f^2_\mathrm{rev} = \frac{e^2}{16 \pi^3 \varepsilon_0 m r^3_0 n^6.$$
+
+\item Utilice el principio de correspondencia para determinar r_0 y compare con la expresión del radio de Bohr.
+
+
+\end{enumerate}
+
+\end{enumerate}
+
+\end{document}
