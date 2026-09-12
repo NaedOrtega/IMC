@@ -45,10 +45,58 @@
 
 \section*{Preguntas conceptuales.}
 \begin{itemize}
-\item ¿Son lo mismo $ \bra{\psi} $ y $ \psi(x) $? Si no, ¿cómo se relacionan? 
+\item ¿Son lo mismo $ \bra{\psi} $ y $ \psi(x) $? Si no, ¿cómo se relacionan?\\
+\item Si $ \psi(x_{0}) = 0 $ para una partícula, ¿qué puede afirmar físicamente sobre la partícula en $ x_{0} $?\\
+\item Suponga que alguien dice: Auna partícula tiene una posición perfectamente definida pero nosotros simplemente no sabemos cuál es. ¿Esta afirmación es compatible con la interpretación de Copenhage? Lea acerca de la interpretación de variables ocultas y dé su opinión.\\
+\item Suponga que encuentra una función de onda $ \psi(x) $ que es discontinua pero cuadrado-integrable. ¿Puede descartarla inmediatamente como no física? ¿Qué otra pregunta debería hacer antes?
 
-\item Si $ \psi(x_{0}) = 0 $ para una partícula, ¿qué puede afirmar físicamente sobre la partícula en $ x_{0} $  
 \end{itemize}
+
+\section*{Problemas}
+
+\begin{enumerate}
+\item Su vida cambiará en 90 grados. Un vector $ \bra{v} $ es protectado en la dirección definida por el vector $ \bra{e_{k}} $ por la acción del proyector $ \hat{P}_{k} := \bra{e_{k}}y\ket{e_{k}} $ .
+\begin{enumerate}
+\item ¿Es la diferencia $ \bra{v} - \hat{P}_{k} \bra{v} $ ortogonal a $ \bra{e_{k}} $ ? Haga una figura de la situación y los cáluclos correspondientes para demostrar que sí o no.
+\item Sean los vectores $ \bra{v_{1}} = (1, i, 1)^t $ y $ \bra{v_{2}} = (3, 1, i)^t$. Utilice el resultado del inciso anterior para construir un par de vectores $ \bra{u_{1}} $, $ \bra{u_{2}} $ genera el mismo subespacio que $ \bra{v_{1}} $ , $ \bra{v_{2}} $. Acaba de descubrir el principio de ortonormalización de Gram-Schmidt.
+
+\end{enumerate}
+
+\item Hermitiano, unitario y muchos colores. Sea $ \hat{H} $ un iperador Hermitiano (i.e. que satisface $ \hat{H}^{\dagger} = \hat{H} $), y definamos $ \mathbb{1} $ como el operador identidad. Muestre que el operador,
+
+\[
+\hat{U} = (\hat{\mathbb{1}} + i \hat{H})(\hat{\mathbb{1}} - i\hat{H})^{-1}, \hspace{1cm}  \mathrm{con} i = \sqrt{-1},
+\]
+
+es unitario. Esta transformación se llama la transformación de Cayley. Este tipo de transgormaciones permite pasar de un operador Hermitiano $ \hat{H} $ a un operador unitario $ \hat{U} $. Mencione una aplicación de las transformaciones de Cayley en física.
+
+\item Sabores de operadores.
+
+\begin{enumerate}
+\item Sea $ \hat{A} $ un operador normal, es decir que cumple $ \hat{A} \hat{A}^{\dagger} = \hat{A}^{\dagger} \hat{A} $. Demuestre que lo eigenestados correspondientes a digerentes eigenvalores son ortogonales.
+\item Demuestre que es además Hermitiano si y solo si todos los eigenvalores de $ \hat{A} $ son reales.
+\item Suponga que $ \hat{B} $ es un operador antihermitiano que cumple $ \hat{B}^{\dagger} = - \hat{B}$. Muestre que es normal y que todos sus eigenvalores son puramente imaginarios.
+\end{enumerate}
+
+\item Propio de mi operador. Sean $ \{\bra{1}, \bra{2}\} $ vectores que forman una base ortonormal de un espacio de Hilbret de dimensión dos. Supongamos que un operador $ \hat{A} $ de sete espacio se escribe en términos de esta base como,
+
+\[
+\hat{A} = a(\ket{1} \bra{1} - \ket{2}\bra{2} + \ket{1}\bra{2 + \ket{2}\bra{1}}),
+\]
+
+donde $ a \in \mathbb{C} $. Encuentre los egenvalores del operador y susu correspondientes eigenestados 8expresados como una combinación lineal de la base original $ {\ket{1}, \bra{2}} $. 
+Nótese que $ \hat{A} $ se puede representar matricialmente en su base como, 
+
+\[
+A = a \begin{matrix}
+1 & 1\
+1 & -1 
+\end{matrix}.
+\]
+
+
+
+\end{enumerate}
 
 
 \end{document}
