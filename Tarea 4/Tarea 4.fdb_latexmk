@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1789179815.06816 "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" "Tarea 4.pdf" "Tarea 4" 1789179817.69442 0
-  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789178869 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1789179982.76603 "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" "Tarea 4.pdf" "Tarea 4" 1789179985.51742 2
+  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789179978 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1786747158 40136 eb4d80874117633136e3f624db888512 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1787703886 49100 90909b4a257d7ca459808523f01c63cb ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk" 1786747161 59008 61f974e21aff9cc2a92a5acd91a70301 ""
@@ -171,6 +171,7 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty" 1696169587 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty" 1696169587 72619 ee90b6612147680fd73c3b1406a74245 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/caption/subcaption.sty" 1696169587 12494 0c0cdb824278a4d51cefeb2e79901315 ""
+  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty" 1738917170 52272 63d293bc0d496619edb57585740861a2 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/gensymb/gensymb.sty" 1667300788 4629 bbc3d88bc1fe1146ecbefa95c41cab26 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg" 1465894292 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
@@ -201,9 +202,9 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Tarea 4.aux" 1789179817 232 8468c20ea4b2ed0a0f97d01ef9ecfd7e "pdflatex"
-  "Tarea 4.tex" 1789179814 4600 6503169dc8bf27442e1bc2e958c395f8 ""
-  "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" 1789179814 4600 6503169dc8bf27442e1bc2e958c395f8 ""
+  "Tarea 4.aux" 1789179984 232 8468c20ea4b2ed0a0f97d01ef9ecfd7e "pdflatex"
+  "Tarea 4.tex" 1789179967 4640 a909b72e0ccc9b5bde9f8a407ad77571 ""
+  "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" 1789179967 4640 a909b72e0ccc9b5bde9f8a407ad77571 ""
   (generated)
   "Tarea 4.aux"
   "Tarea 4.log"
