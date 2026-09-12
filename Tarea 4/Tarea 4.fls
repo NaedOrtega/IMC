@@ -431,6 +431,7 @@ INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
 INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1728.tfm
+INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
 INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.tfm
 INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex\latex\bbm\ubbm.fd
 INPUT C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex\latex\bbm\ubbm.fd
@@ -445,6 +446,8 @@ INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\public\bbm\dpi600\bbm1
 INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\public\bbm\dpi600\bbm12.pk
 INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
 INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
+INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
 INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
 INPUT C:\Users\nafer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk
