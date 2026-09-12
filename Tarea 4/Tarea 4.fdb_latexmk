@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1789180316.15049 "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" "Tarea 4.pdf" "Tarea 4" 1789180318.78441 2
+["pdflatex"] 1789180387.13351 "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" "Tarea 4.pdf" "Tarea 4" 1789180400.56944 0
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789179978 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1786747158 40136 eb4d80874117633136e3f624db888512 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1787703886 49100 90909b4a257d7ca459808523f01c63cb ""
@@ -8,6 +8,10 @@
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1786747155 28440 8fd594c2e96c410976f083f5cd943f52 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk" 1786747159 34320 51e3aadbc5a1c9459e2f6397d0b29a43 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk" 1786747153 39120 3c4f6e56bc15f071d54f93bc24071b85 ""
+  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/public/bbm/dpi600/bbm12.pk" 1789180399 8448 378339494debb2371f449bcf9bec3ae6 ""
+  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/tfm/public/bbm/bbm12.tfm" 1789180392 556 710091e9bfd7488f1b5667243215698b ""
+  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/tfm/public/bbm/bbm6.tfm" 1789180395 560 4c5ff0e6c23877f3f630ae9d8ef92c6e ""
+  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/tfm/public/bbm/bbm8.tfm" 1789180394 560 2e80f8a1cb59527f57d99bb5fccd0f3c ""
   "C:/Users/nafer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1787606130 13367606 c655e8b47189acb7cd2d21fcf26965f3 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1728.tfm" 993061962 3204 d35cb76836b6cb4ed404dd64a550530d ""
@@ -165,6 +169,7 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1780057299 5048 d19270c31bb8731a546f4e34e34d62fc ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo" 1780057299 8449 664757d1408d8170a2006aafc5658e1b ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/bbm/bbm.sty" 1227195129 1684 1e0d54b051369c3f457872824cac219f ""
+  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/bbm/ubbm.fd" 1227195129 2187 62f898e14cad3357133b5cbf57b61c0a ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 f1cb470c9199e7110a27851508ed7a5c ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/braket/braket.sty" 1160262110 3601 193635d942bc4777a5acaaeeffdce692 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/cancel/cancel.sty" 1388370247 7592 dd751af313a16a0308545d5bfd7aaaa2 ""
@@ -202,9 +207,9 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Tarea 4.aux" 1789180318 232 8468c20ea4b2ed0a0f97d01ef9ecfd7e "pdflatex"
-  "Tarea 4.tex" 1789180310 4649 962b098e3930765aa1961f03ac5b2620 ""
-  "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" 1789180310 4649 962b098e3930765aa1961f03ac5b2620 ""
+  "Tarea 4.aux" 1789180396 232 8468c20ea4b2ed0a0f97d01ef9ecfd7e "pdflatex"
+  "Tarea 4.tex" 1789180386 4654 745cce1efa59cf376b1d065d7ce0e87c ""
+  "c:/Users/nafer/Documents/Física/IMC/Tarea 4/Tarea 4.tex" 1789180386 4654 745cce1efa59cf376b1d065d7ce0e87c ""
   (generated)
   "Tarea 4.aux"
   "Tarea 4.log"
