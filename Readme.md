@@ -1,28 +1,21 @@
-# IMC
+# IFC
 
-Proyecto de física computacional para estudiar y visualizar diferentes
-fenómenos físicos mediante Python y Blender.
+Curso de Introducción a la Física Cuántica de la UNAM impartido por Saul Ramos, en el periodo 2027-1.
 
 ## Descripción
 
-Este repositorio contiene los códigos, simulaciones y recursos utilizados
-para el proyecto.
+Este repositorio contiene las notas, tareas y exámenes resueltos de el curso de IFC de Saul Ramos.
 
-## Contenido
-
-[Tarea 1](t1/t1.pdf)  /  [Resuelta](Tarea%201/Tarea%201.pdf)
-
-[Tarea 2](t2/t2.pdf)  /  [Resuelta](Tarea%202/Tarea%202.pdf)
-
-[Tarea 3](t3/t3.pdf)  /  [Resuelta](Tarea%203/Tarea%203.pdf)
-
-[Tarea 4](t4/t4.pdf)  /  [Resuelta](Tarea%204/Tarea%204.pdf)
-
-[Tarea 2](t5/t5.pdf)  /  [Resuelta](Tarea%205/Tarea%205.pdf)
+## Tareas
 
 
-## Requisitos
+[Tarea 1](Tarea%201/t1.pdf)  |  [Resuelta](Tarea%201/Tarea%201.pdf) 
 
-- Python
-- Blender
-- Git
+[Tarea 2](Tarea%202/t2.pdf)  |  [Resuelta](Tarea%202/Tarea%202.pdf)
+
+[Tarea 3](Tarea%203/t3.pdf)  |  [Resuelta](Tarea%203/Tarea%203.pdf)
+
+[Tarea 4](Tarea%204/t4.pdf)  |  [Resuelta](Tarea%204/Tarea%204.pdf)
+
+[Tarea 2](Tarea%205/t5.pdf)  |  [Resuelta](Tarea%205/Tarea%205.pdf)
+
