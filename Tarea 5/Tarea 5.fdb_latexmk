@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1789856218.79148 "c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex" "Tarea 5.pdf" "Tarea 5" 1789856220.17771 0
+["pdflatex"] 1789858227.21199 "c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex" "Tarea 5.pdf" "Tarea 5" 1789858228.84062 2
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789179978 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1786747158 40136 eb4d80874117633136e3f624db888512 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1787703886 49100 90909b4a257d7ca459808523f01c63cb ""
@@ -47,10 +47,14 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247596667 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
+  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247596673 34694 870c211f62cb72718a00e353f14f254d ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1786180796 150318 9d26ac5ce22117046c354a2e00d21d48 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1786180797 4303 c450545e79f0d9ac3027df4bd9b132d8 ""
@@ -212,9 +216,9 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Tarea 5.aux" 1789856219 232 73e76a51b3ab6978a073af3f7982faa6 "pdflatex"
-  "Tarea 5.tex" 1789856218 2762 fbb3b15594557a1f7208ed025fd4d23a ""
-  "c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex" 1789856218 2762 fbb3b15594557a1f7208ed025fd4d23a ""
+  "Tarea 5.aux" 1789858228 232 8468c20ea4b2ed0a0f97d01ef9ecfd7e "pdflatex"
+  "Tarea 5.tex" 1789858222 4495 f56b05b3ec579479e5a28acca5dae88a ""
+  "c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex" 1789858222 4495 f56b05b3ec579479e5a28acca5dae88a ""
   (generated)
   "Tarea 5.aux"
   "Tarea 5.log"

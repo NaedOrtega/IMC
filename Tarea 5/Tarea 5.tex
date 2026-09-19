@@ -64,15 +64,51 @@
 \begin{enumerate}
 \item Demuestre que el operador derivada en la representación de posiciones, $ \hat{D_{x}} \doteq \frac{\partial }{\partial x}  $, no es Hermitiano. (Calcule $ \braket{\psi|\hat{D_{x}}|\phi} $ usando las funciones de onda $ \psi(x) \braket{x|\psi} $ y $ \braket{x|\phi} $ cuadrado integrables.) 
 
-\item Usando el resultado anterior, muestre que el operador de momento lineal representado en el espacio de posiciones como $ \hat{p_{x}} \doteq -i $
+\item Usando el resultado anterior, muestre que el operador de momento lineal representado en el espacio de posiciones como $ \hat{p_{x}} \doteq -i\hslash\hat{D_{x}} $ sí es Hermitiano en la representación de posiciones.
 
 \end{enumerate}
 
+\item ¿Dónde está la partícula?
+En el instante $ t = 0 $ una partícula está representada por la función de onda,
+
+\[
+\psi(x,0) = \begin{cases}
+A(x/a), & 0 \leq x \leq a,
+A(b/x)/(b-a), & a \leq x \leq b,
+0, & en otro caso
+\end{cases}
+\]
+
+donde $ A $, $ a $ y $ b $ son constantes positivas.
+
+
+\begin{enumerate}
+\item Normalice $ \psi(x,0) $ (es decir, encuentre $ A $ en una función de $ a $ y $ b $).
+\item Grafique $ \psi(x,0) $ como función de x.
+\item ¿Dónde es má probable encontrar a la partícula en $ t=0 $?
+\item ¿Cuál es la probabilidad de encontrar la partícula a la izquierda de a? Compruebe su resultado en los casos límite $ b=a $ y $ b=2a $.
+\item Calcule la integral
+
+\[
+\langle \hat{x} \rangle = \int_{-\infty}^{\infty} \psi*(x, 0)x\psi(x, 0) \, dx
+\]
+
+La cantidad $ \langle \hat{x} \rangle  $ se denomina valor esperado del operador de posición $ \hat{x} $ y está relacionada con el calor promedio de la posición que se obtiene al realizar muchas mediciones sobre sistema preparados de la misma manera.
+
 
 \end{enumerate}
 
+\item A la rapidez de la luz y hasta ahí.
+La energía de una partícula relativista está dada por,
+
+\[
+E^{2} = m^{2} c^{4} + p^{2} c^{2},
+\]
+
+donde $ m $ es la masa de la partícula, $ p $ la magnitud del momento lineal y $ c $ la rapidez de la luz en el vacío. Obtenga, mediante un procedimiento análogo al visto en clase, la "versión relativista" de la ecuación de Schr\"odinger, denominada ecuación de Klein-Gordon. Para ello, parta de que $ \psi(x,t) $ es una onda plana y utilice la expresión relativista de E y las relaciones de Planck y de De Broglie. 
 
 
+\end{enumerate}
 
 
 \section*{Problemas}
