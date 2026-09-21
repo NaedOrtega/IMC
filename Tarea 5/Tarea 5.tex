@@ -24,11 +24,11 @@
 \usepackage{booktabs}
 \usepackage{amssymb, amsmath}
 \usepackage{wrapfig}
-\parskip= 0.5 mm
-\oddsidemargin = -1 cm
-\headsep = -2 cm
-\textwidth = 17.5cm
-\textheight = 25.5cm
+\setlength{\parskip}{0.5mm}
+\oddsidemargin = -0.04 cm
+\headsep = 0 cm
+\textwidth = 17 cm
+\textheight = 25.5 cm
 \begin{document}
 \begin{center}
     {\LARGE \textbf{Introducción a Física Cuántica}} \\[0.4cm]
@@ -61,7 +61,24 @@ Si en una region $ a<x<b $ la probabilidad de encontrar a la partícula disminuy
 
 \item Suponga que al medir una observable $ \hat{M} $ sobre un sistema se obtiene el eigenvalor $ m_{i}$. ¿Qué sucede con el estado del sistema después de la medición y con qué probabilidad se obtendrá, al medir inmediatamente de nuevo la misma observable $ \hat{M} $, un eigenvalor $ m_{j} $ diferente de $ m_{i} $.
 
-Considérese una 
+Si consideramos al operador Hermitiano $ \hat{M} $ esta asociado al eigenvalor $ m_{i} $ de tal manera que,
+
+\[
+\hat{M} \ket{m_{i}} = m_{i}\ket{m_{i}}.
+\]
+
+Como estos estos eigenkets forman una base completa del espacio de Hilbert, podemos ver a una función de onda como la combinación lineal de estos elementos de la base,
+
+\[
+\ket{\psi} = \sum_{i} \ket{m_{i}} \braket{m_{i}|\psi}. 
+\]
+
+A su vez esto nos da que la probabilidad de obtener $ m_{i} $ al aplicar medir con el operador $ \hat{M} $ está dada por,
+
+\[
+\rho(m_{i}) := |\braket{m_{i}|\psi}|^{2}
+\]
+
 
 \item ¿Cuáles son las consecuencias de que la ecuación de Schr\"odinger sea una ecuación diferencial de segundo orden en la posición y de primer orden en el tiempo?
 \item Un sistema se encuentra inicialmente en un estado $ \ket{\psi} $. Si el sistema no es sometido a ninguna medición, ¿puede cambiar su estado con el tiempo?.
@@ -126,3 +143,7 @@ donde $ m $ es la masa de la partícula, $ p $ la magnitud del momento lineal y 
 
 
 \end{document}
+
+
+
+
