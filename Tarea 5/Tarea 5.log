@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  23 SEP 2026 14:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  23 SEP 2026 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -294,7 +294,9 @@ File: pgfmodulematrix.code.tex 2026-08-01 v3.1.12 (3.1.12)
 \tikz@expandcount=\count307
  (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2026-08-01 v3.1.12 (3.1.12)
-))) (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfit.code.tex
+))) (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfit.code.tex
 File: tikzlibraryfit.code.tex 2026-08-01 v3.1.12 (3.1.12)
 ) (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2026-08-01 v3.1.12 (3.1.12)
@@ -560,27 +562,30 @@ LaTeX Info: Redefining \] on input line 2966.
 ) (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count349
-) (Tarea 5.aux)
+) (Tarea 5.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 8.
+)
 \openout1 = `"Tarea 5.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
  (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count350
@@ -629,480 +634,27 @@ Package pgfplots notification 'compat/show suggested version=true': document has
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \celsius on input line 32.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 32.
+LaTeX Info: Redefining \celsius on input line 33.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 33.
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 32.
-Package gensymb Info: Using \Omega for \ohm on input line 32.
+LaTeX Info: Redefining \ohm on input line 33.
+Package gensymb Info: Using \Omega for \ohm on input line 33.
 
 Package gensymb Warning: Not defining \micro.
 
 Package babel Info: Main language set to 'spanish'.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
  (C:\Users\nafer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Argument of \language@active@arg> has an extra }.
-<inserted text> 
-                \par 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Paragraph ended before \language@active@arg> was complete.
-<to be read again> 
-                   \par 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->]
-                (-3,0) -- (3,0) node[right]{$x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{
-                                            $x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{
-                                            $x$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{
-                                            $x$};
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{
-                                            $x$};
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{$x$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{$x$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{$x$};
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{$x$};
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{$x$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{$x$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:181: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 \draw[->] (-3,0) -- (3,0) node[right]{$x$};
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Argument of \language@active@arg> has an extra }.
-<inserted text> 
-                \par 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Paragraph ended before \language@active@arg> was complete.
-<to be read again> 
-                   \par 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->]
-                (0,-3) -- (0,3) node[above]{$y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{
-                                            $y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{
-                                            $y$};
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{
-                                            $y$};
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{
-                                            $y$};
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{$y$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{$y$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{$y$};
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{$y$};
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{$y$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Missing \endcsname inserted.
-<to be read again> 
-                   \advance 
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{$y$};
-                                                 
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 5/Tarea 5.tex:182: Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
-
-See the xcolor package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.182 \draw[->] (0,-3) -- (0,3) node[above]{$y$};
-                                                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[3] [4] (Tarea 5.aux
+{C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] (Tarea 5.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -1112,15 +664,15 @@ L3 programming layer <2026-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 28127 strings out of 467501
- 699392 string characters out of 5408550
- 1187492 words of memory out of 5000000
- 56892 multiletter control sequences out of 15000+600000
+ 28144 strings out of 467501
+ 700035 string characters out of 5408550
+ 1187584 words of memory out of 5000000
+ 56906 multiletter control sequences out of 15000+600000
  648114 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,13n,107p,775b,856s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,13n,107p,775b,878s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "Tarea 5.pdf" (4 pages, 166045 bytes).
+Output written on "Tarea 5.pdf" (4 pages, 166124 bytes).
 PDF statistics:
  249 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
