@@ -186,7 +186,6 @@ A^{2}\frac{b}{3} = 1
 \draw[dashed] (1.5, 1.5) -- (0, 1.5) node[left]{$A$};
 \draw[dashed] (1.5, 1.5) -- (1.5, 0) node[below]{$a$};
 
-
 \end{tikzpicture}
 \end{center}
 
@@ -194,9 +193,17 @@ A^{2}\frac{b}{3} = 1
 
 \item ¿Dónde es más probable encontrar a la partícula en $ t=0 $?
 
-Es mas probable encontrar la partícula en 
+Es mas probable encontrar la partícula en la posición $ x=a $, donde la probabilidad es exactamente $ A $.
 
 \item ¿Cuál es la probabilidad de encontrar la partícula a la izquierda de a? Compruebe su resultado en los casos límite $ b=a $ y $ b=2a $.
+
+Considérese la probabilidad de encontrar a la partícula a la izquierda de a como,
+
+\[
+P[\psi(x<a, 0)] = \int_{-\infty}^{0} 0 \, dx + \int_{0}^{a-\delta x} A^{2}\frac{x^{2}}{a^{2}} \, dx = \frac{3(a-\delta x)^{2}}{a^{2}b}
+\]
+
+
 \item Calcule la integral
 
 \[
@@ -204,6 +211,17 @@ Es mas probable encontrar la partícula en
 \]
 
 La cantidad $ \langle \hat{x} \rangle  $ se denomina valor esperado del operador de posición $ \hat{x} $ y está relacionada con el calor promedio de la posición que se obtiene al realizar muchas mediciones sobre sistema preparados de la misma manera.
+
+Considérese a,
+
+\[
+\psi^{*}(x, 0) = \begin{cases}
+A(x/a), & 0 \leq x \leq a, \\
+A(b/x)/(b-a), & a \leq x \leq b, \\
+0, & \mathrm{en \,\, otro \,\, caso,}
+\end{cases}
+\]
+
 
 
 \end{enumerate}
