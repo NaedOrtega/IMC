@@ -122,7 +122,7 @@ En el instante $ t = 0 $ una partícula está representada por la función de on
 \[
 \psi(x,0) = \begin{cases}
 A(x/a), & 0 \leq x \leq a, \\
-A(b/x)/(b-a), & a \leq x \leq b, \\
+A(b-x)/(b-a), & a \leq x \leq b, \\
 0, & \mathrm{en \,\, otro \,\, caso,}
 \end{cases}
 \]
@@ -217,12 +217,16 @@ Considérese a,
 \[
 \psi^{*}(x, 0) = \begin{cases}
 A(x/a), & 0 \leq x \leq a, \\
-A(b/x)/(b-a), & a \leq x \leq b, \\
+A(b-x)/(b-a), & a \leq x \leq b, \\
 0, & \mathrm{en \,\, otro \,\, caso,}
 \end{cases}
 \]
 
+por lo que,
 
+\[
+\langle \hat{x} \rangle \int_{-\infty}^{0} 0 \, dx \int_{0}^{a} A\frac{x}{a} x \frac{x}{a} \, dx \int_{a}^{b} A \frac{b-x}{b-a} \, dx
+\]
 
 \end{enumerate}
 
