@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 SEP 2026 13:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.24)  25 SEP 2026 13:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -858,97 +858,7 @@ or  <return>  to continue without it.
 
 [1
 
-{C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:155: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.155 I = P / A, \hspace{1cm} P = I \cdot A\\
-                                             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:155: Missing $ inserted.
-<inserted text> 
-                $
-l.155 I = P / A, \hspace{1cm} P = I \cdot A\\
-                                             
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:155: Missing } inserted.
-<inserted text> 
-                }
-l.155 I = P / A, \hspace{1cm} P = I \cdot A\\
-                                             
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:155: Display math should end with $$.
-<to be read again> 
-                   \tex_par:D 
-l.155 I = P / A, \hspace{1cm} P = I \cdot A\\
-                                             
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:155: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.155 I = P / A, \hspace{1cm} P = I \cdot A\\
-                                             
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:157: Missing $ inserted.
-<inserted text> 
-                $
-l.157 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:157: Missing } inserted.
-<inserted text> 
-                }
-l.157 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:157: Display math should end with $$.
-<to be read again> 
-                   \tex_par:D 
-l.157 
-      
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:157: Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.157 
-      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-[3] [4]
+{C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4]
 
 c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex:234: LaTeX Error: \begin{center} on input line 33 ended by \end{document}.
 
@@ -985,7 +895,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  102i,9n,107p,775b,2228s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\nafer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "Tarea 1.pdf" (4 pages, 142955 bytes).
+Output written on "Tarea 1.pdf" (4 pages, 142957 bytes).
 PDF statistics:
  175 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
