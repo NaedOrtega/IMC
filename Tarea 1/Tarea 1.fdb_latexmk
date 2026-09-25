@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1790363542.49283 "c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex" "Tarea 1.pdf" "Tarea 1" 1790363545.38695 2
+["pdflatex"] 1790363589.41392 "c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex" "Tarea 1.pdf" "Tarea 1" 1790363592.18594 0
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789179978 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1786747158 40136 eb4d80874117633136e3f624db888512 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1787703886 49100 90909b4a257d7ca459808523f01c63cb ""
+  "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk" 1786747161 59008 61f974e21aff9cc2a92a5acd91a70301 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk" 1786747156 26228 66b76784bf97c202f5727a47bd9ff5aa ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1786747155 28440 8fd594c2e96c410976f083f5cd943f52 ""
   "C:/Users/nafer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk" 1786747159 34320 51e3aadbc5a1c9459e2f6397d0b29a43 ""
@@ -42,7 +44,6 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmib10.tfm" 1136765053 1524 554068197b70979a55370e6c6495f441 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
-  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -52,7 +53,6 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247596666 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1247596667 32734 69e00a6b65cedb993666e42eedb3d48f ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -85,6 +85,7 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex" 1785614823 35399 506d4c93214bdbdeddaf59c64efdb447 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex" 1785614823 22012 81b34a0aa8fa1a6158cc6220b00e4f10 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex" 1785614823 8893 e851de2175338fdf7c17f3e091d94618 ""
+  "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybabel.code.tex" 1785614823 380 6d7183aba307d0dbd499d5b50b8c400c ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex" 1785614823 5650 0ccd824135f363f45d6a97602e59d55a ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex" 1785614823 321 cdd11262840e01e25374a2d458f15e99 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex" 1785614823 1319 0b2de5126c6cbc295f0eb77f7344b34d ""
@@ -218,9 +219,9 @@
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/nafer/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Tarea 1.aux" 1790363544 232 24afd9b12cb36b06a4fa8c1b17b2b49b "pdflatex"
-  "Tarea 1.tex" 1790363536 10932 140736d0e93fe47191b7e1b957363d5e ""
-  "c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex" 1790363536 10932 140736d0e93fe47191b7e1b957363d5e ""
+  "Tarea 1.aux" 1790363591 232 24afd9b12cb36b06a4fa8c1b17b2b49b "pdflatex"
+  "Tarea 1.tex" 1790363588 10996 dd994a8eec657b35dc153e298d1e822d ""
+  "c:/Users/nafer/Documents/Física/IMC/Tarea 1/Tarea 1.tex" 1790363588 10996 dd994a8eec657b35dc153e298d1e822d ""
   (generated)
   "Tarea 1.aux"
   "Tarea 1.log"
