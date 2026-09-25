@@ -120,11 +120,18 @@ Por lo que con $ \hat{O} = \hat{D_{x}} $ se tiene que,
 
 
 \[
-\braket{\psi|\hat{O}|\phi} = \int_{-\infty}^{\infty} \psi^{*}\frac{d}{dx}[\phi] \, dx = \psi^{}
+\braket{\psi|\hat{D_{x}}|\phi} = \int_{-\infty}^{\infty} \psi^{*}\frac{d}{dx}[\phi] \, dx = [\psi^{*}\phi]_{-\infty}^{\infty} - \int_{-\infty}^{\infty} \frac{d}{dx}[\psi^{*}] \phi \, dx
 \]
 
+Cuando $ x \leftarrow \infty, \, -\infty $ entonces $ \psi, \, \phi \leftarrow 0 $ por lo que 
 
+\[
+\braket{\psi|\hat{O}|\phi} = - \int_{-\infty}^{\infty} \frac{d}{dx}[\psi^{*}] \phi \, dx
+\]
 
+\[
+\braket{\psi|\hat{O}|\phi} = - \int_{-\infty}^{\infty} \frac{d}{dx}[\psi^{*}] \phi \, dx
+\]
 
 
 
@@ -241,7 +248,7 @@ A(b-x)/(b-a), & a \leq x \leq b, \\
 por lo que,
 
 \[
-\langle \hat{x} \rangle \int_{-\infty}^{0} 0 \, dx \int_{0}^{a} A\frac{x}{a} x \frac{x}{a} \, dx \int_{a}^{b} A \frac{b-x}{b-a} \, dx
+\langle \hat{x} \rangle \int_{-\infty}^{0} 0 \, dx + \int_{0}^{a} A\frac{x}{a} x \frac{x}{a} \, dx + \int_{a}^{b} A \frac{b-x}{b-a} \, dx
 \]
 
 \end{enumerate}
