@@ -80,13 +80,6 @@ A su vez esto nos da que la probabilidad de obtener $ m_{i} $ al aplicar medir c
 \rho(m_{i}) := |\braket{m_{i}|\psi}|^{2}
 \]
 
-.
-.
-.
-.
-.
-.
-
 Al medir con el operador $ \hat{M} $ y la función de onda colapsa en un valor $ \ket{\psi_{f}} = \ket{m_{i}}$, podemos notar que en este momento siempre se va a medir el estado $ m_{i} $, por lo que la probabilidad de obtener este valor es,
 
 \[
@@ -94,10 +87,6 @@ Al medir con el operador $ \hat{M} $ y la función de onda colapsa en un valor $
 \]
 
 Bajo la interpretación de Copenhague, al medir el estado de la función de onda, se produce un colapso, los infinitos estados de la función de onda colapsan a uno, con un eigenvalor definido $ m_{i} $, por lo que al medir de nuevo se esta midiendo sobre un eigenket $ \ket{m_{i}} $ que ya tiene un eigenvalor definido $ m_{i} $, finalmente este mismo operador $ \hat{M} $ lleva una y otra vez al mismo problema de eigenvalores por lo que el valor de la medición no cambia.
-
-\item ¿Cuáles son las consecuencias de que la ecuación de Schr\"odinger sea una ecuación diferencial de segundo orden en la posición y de primer orden en el tiempo?
-
-\item Un sistema se encuentra inicialmente en un estado $ \ket{\psi} $. Si el sistema no es sometido a ninguna medición, ¿puede cambiar su estado con el tiempo?.
 
 \end{enumerate}
 
@@ -116,7 +105,7 @@ Considere que un operador Hermitiano es,
 \braket{\psi|\hat{O}|\phi} = \braket{\phi|\hat{O}|\psi}^{*}
 \]
 
-Por lo que con $ \hat{O} = \hat{D}_{x} $ se tiene que, 
+Por lo que con $ \hat{O} = \hat{D}_{x} = \frac{\partial }{\partial x} $ se tiene que, 
 
 
 \[
@@ -141,9 +130,36 @@ por lo que,
 \braket{\psi|\hat{D}_{x}|\phi} = - \braket{\phi|\hat{D}_{x}|\psi}^{*} 
 \]
 
+Por el signo menos podemos ver que el operador no es Hermitiano.
 
 
 \item Usando el resultado anterior, muestre que el operador de momento lineal representado en el espacio de posiciones como $ \hat{p_{x}} \doteq -i\hslash\hat{D_{x}} $ sí es Hermitiano en la representación de posiciones.
+
+Ahora con $ \hat{O} = \hat{p}_{x} = -i\hslash\hat{D_{x}} = -i\hslash \frac{d}{dx} $ se tiene que, 
+
+\[
+\braket{\psi|\hat{p}_{x}|\phi} = \int_{-\infty}^{\infty} \psi^{*}\left( -i\hslash\frac{d}{dx}[\phi] \right) \, dx = -i\hslash\left(  [\psi^{*}\phi]_{-\infty}^{\infty} - \int_{-\infty}^{\infty} \frac{d}{dx}[\psi^{*}] \phi \, dx\right)
+\]
+
+Cuando $ x \leftarrow \infty, \, -\infty $ entonces $ \psi, \, \phi \leftarrow 0 $ por lo que 
+
+\[
+\braket{\psi|\hat{p}_{x}|\phi} = -i\hslash\left( - \int_{-\infty}^{\infty} \frac{d}{dx}[\psi^{*}] \phi \, dx \right)
+\]
+
+\[
+\braket{\psi|\hat{\frac{\partial }{\partial }}_{x}|\phi} = i\hslash\int_{-\infty}^{\infty} \frac{d}{dx}[\psi^{*}] \phi \, dx
+\]
+
+Nótese que, $ \phi = \bra{\phi}^{*}$ y que $ i\hslash\frac{d}{dx}[\psi^{*}] = \left( - i\hslash\frac{d}{dx}[\psi] \right)^{*} = \left( \hat{p}_x \ket{\psi} \right)^{*}$
+
+por lo que,
+
+\[
+\braket{\psi|\hat{p}_{x}|\phi} = \braket{\phi|\hat{p}_{x}|\psi}^{*} 
+\]
+
+finalmente el operador si es Hermitiano.
 
 \end{enumerate}
 
